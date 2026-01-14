@@ -1,0 +1,31 @@
+2025/03/13 16:55:59 [notice] 28768#25464: using the "select" event method
+2025/03/13 16:55:59 [notice] 28768#25464: nginx/1.14.1
+2025/03/13 16:55:59 [info] 28768#25464: OS: 260200 build:9200, "", suite:100, type:1
+2025/03/13 16:55:59 [notice] 28768#25464: start worker processes
+2025/03/13 16:55:59 [notice] 28768#25464: start worker process 26280
+2025/03/13 16:55:59 [notice] 26280#5556: nginx/1.14.1
+2025/03/13 16:55:59 [info] 26280#5556: OS: 260200 build:9200, "", suite:100, type:1
+2025/03/13 16:55:59 [notice] 26280#5556: create thread 13964
+2025/03/13 16:55:59 [notice] 26280#5556: create thread 21204
+2025/03/13 16:55:59 [notice] 26280#5556: create thread 24160
+2025/03/13 16:56:08 [notice] 30000#29176: signal process started
+2025/03/13 16:56:08 [notice] 28768#25464: exiting
+2025/03/13 16:56:08 [notice] 26280#5556: gracefully shutting down
+2025/03/13 16:56:08 [notice] 26280#21204: exiting
+2025/03/13 16:56:13 [notice] 28768#25464: exit
+2026/01/07 16:10:49 [emerg] 1756#11992: CreateFile() "E:\桌面\iptv-api-backup-1.7.3\utils\nginx-rtmp-win32/conf/nginx.conf" failed (3: The system cannot find the path specified)
+2026/01/07 16:15:15 [emerg] 16052#6924: CreateFile() "E:\桌面\iptv-api-backup-1.7.3\utils\nginx-rtmp-win32/conf/nginx.conf" failed (3: The system cannot find the path specified)
+2026/01/07 16:18:10 [emerg] 21204#6356: CreateFile() "E:\桌面\iptv-api-backup-1.7.3\utils\nginx-rtmp-win32/conf/nginx.conf" failed (3: The system cannot find the path specified)
+2026/01/07 17:08:56 [emerg] 27740#28848: CreateFile() "E:\桌面\iptv-api-backup-1.7.3\utils\nginx-rtmp-win32/conf/nginx.conf" failed (3: The system cannot find the path specified)
+2026/01/07 17:11:23 [emerg] 33004#31784: CreateFile() "E:\桌面\iptv-api-backup-1.7.3\utils\nginx-rtmp-win32/conf/nginx.conf" failed (3: The system cannot find the path specified)
+2026/01/07 19:45:03 [emerg] 15940#30444: CreateFile() "E:\桌面\iptv-api-backup-1.7.3\utils\nginx-rtmp-win32/conf/nginx.conf" failed (3: The system cannot find the path specified)
+2026/01/07 19:45:51 [emerg] 43632#7672: CreateFile() "E:\桌面\iptv-api-backup-1.7.3\utils\nginx-rtmp-win32/conf/nginx.conf" failed (3: The system cannot find the path specified)
+2026/01/07 19:54:00 [emerg] 42136#35684: CreateFile() "E:\桌面\iptv-api-backup-1.7.3\utils\nginx-rtmp-win32/conf/nginx.conf" failed (3: The system cannot find the path specified)
+2026/01/08 11:47:15 [emerg] 23712#29160: CreateFile() "E:\桌面\iptv-api-backup-1.7.3\utils\nginx-rtmp-win32/conf/nginx.conf" failed (3: The system cannot find the path specified)
+2026/01/08 11:47:49 [emerg] 19080#30296: CreateFile() "E:\桌面\iptv-api-backup-1.7.3\utils\nginx-rtmp-win32/conf/nginx.conf" failed (3: The system cannot find the path specified)
+2026/01/12 19:45:48 [emerg] 30312#37724: CreateFile() "E:\桌面\iptv-api-backup-1.7.3\utils\nginx-rtmp-win32/conf/nginx.conf" failed (3: The system cannot find the path specified)
+2026/01/12 19:49:47 [emerg] 38636#40856: CreateFile() "E:\桌面\iptv-api-backup-1.7.3\utils\nginx-rtmp-win32/conf/nginx.conf" failed (3: The system cannot find the path specified)
+2026/01/13 19:53:07 [emerg] 29684#18860: CreateFile() "E:\桌面\iptv-api-backup-1.7.3\utils\nginx-rtmp-win32/conf/nginx.conf" failed (3: The system cannot find the path specified)
+2026/01/14 09:32:24 [emerg] 27812#27276: CreateFile() "E:\桌面\iptv-api-backup-1.7.3\utils\nginx-rtmp-win32/conf/nginx.conf" failed (3: The system cannot find the path specified)
+2026/01/14 09:54:36 [emerg] 7400#5552: CreateFile() "E:\桌面\iptv-api-backup-1.7.3\utils\nginx-rtmp-win32/conf/nginx.conf" failed (3: The system cannot find the path specified)
+2026/01/14 09:54:53 [emerg] 29284#7124: CreateFile() "E:\桌面\iptv-api-backup-1.7.3\utils\nginx-rtmp-win32/conf/nginx.conf" failed (3: The system cannot find the path specified)
