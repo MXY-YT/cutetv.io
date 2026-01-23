@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/MXY-YT/cutetv.io/refs/heads/main/output/epg/epg.gz"
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://tv-png.cuteshamoye.cn/tv/CCTV1.png" group-title="🕘️更新时间",2026-01-23 06:44:59
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://tv-png.cuteshamoye.cn/tv/CCTV1.png" group-title="🕘️更新时间",2026-01-23 18:47:39
 http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://tv-png.cuteshamoye.cn/tv/CCTV1.png" group-title="📺央视频道",CCTV-1
 http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
@@ -5065,6 +5065,8 @@ https://tv.iill.top/fm/552&token=5e1e0665ab28c6b396cfe65196076812fddb1605c28ea3a
 https://tv.iill.top/fm/552&token=60907fd1e888dae85477cf34cc7d4797c8b8cae12fed0ec777a7dc5c3031d1cd
 #EXTINF:-1 tvg-name="音乐广播" tvg-logo="https://tv-png.cuteshamoye.cn/tv/音乐广播.png" group-title="🎵音乐频道",音乐广播
 https://tv.iill.top/fm/552&token=5bff6a3365ed694a693fc78c1d3aa05f304ccf644170a0b0e6dc66b8e11f6ba5
+#EXTINF:-1 tvg-name="音乐广播" tvg-logo="https://tv-png.cuteshamoye.cn/tv/音乐广播.png" group-title="🎵音乐频道",音乐广播
+https://tv.iill.top/fm/552&token=48647e68dff68838be9995450d03bed19da39b180b8d1b08a21fbc77deed3dde
 #EXTINF:-1 tvg-name="笑傲江湖" tvg-logo="https://tv-png.cuteshamoye.cn/tv/笑傲江湖.png" group-title="🏛经典剧场",笑傲江湖
 http://lu.wqwqwq.sbs/yy/1354930909
 #EXTINF:-1 tvg-name="笑傲江湖" tvg-logo="https://tv-png.cuteshamoye.cn/tv/笑傲江湖.png" group-title="🏛经典剧场",笑傲江湖
