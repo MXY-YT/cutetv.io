@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/MXY-YT/cutetv.io/refs/heads/main/output/epg/epg.gz"
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://tv-png.cuteshamoye.cn/tv/CCTV1.png" group-title="🕘️更新时间",2026-02-02 19:09:11
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://tv-png.cuteshamoye.cn/tv/CCTV1.png" group-title="🕘️更新时间",2026-02-03 19:03:55
 http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://tv-png.cuteshamoye.cn/tv/CCTV1.png" group-title="📺央视频道",CCTV-1
 http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
@@ -1602,8 +1602,6 @@ https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
 #EXTINF:-1 tvg-name="之江纪录" tvg-logo="https://tv-png.cuteshamoye.cn/tv/之江纪录.png" group-title="☘️浙江频道",之江纪录
 http://zwebl02.cztv.com/live/channel121080P.m3u8?auth_key=2524708799-0-0-c33efdd495bcdd2ddc42e7c408405037
 #EXTINF:-1 tvg-name="之江纪录" tvg-logo="https://tv-png.cuteshamoye.cn/tv/之江纪录.png" group-title="☘️浙江频道",之江纪录
-http://ali-m-l.cztv.com/channels/lantian/channel12/1080p.m3u8
-#EXTINF:-1 tvg-name="之江纪录" tvg-logo="https://tv-png.cuteshamoye.cn/tv/之江纪录.png" group-title="☘️浙江频道",之江纪录
 http://goo.bkpcp.top/mg/zjjl
 #EXTINF:-1 tvg-name="之江纪录" tvg-logo="https://tv-png.cuteshamoye.cn/tv/之江纪录.png" group-title="☘️浙江频道",之江纪录
 https://ali-m-l.cztv.com/channels/lantian/channel12/720p.m3u8
@@ -2487,6 +2485,8 @@ https://mgtv.ottiptv.cc/migu/628008321.m3u8?migutoken=2a14b3aabc488208548ee93104
 https://t.freetv.fun/live/jiang-su-jiao-yu-1.m3u8
 #EXTINF:-1 tvg-name="江苏教育" tvg-logo="https://tv-png.cuteshamoye.cn/tv/江苏教育.png" group-title="☘️江苏频道",江苏教育
 https://mgtv.ottiptv.cc/mg/628008321.m3u8?userid=5559462299&sign=6ab80a00313378971c7ce88edf123190121af58ce27a7f3ad685f48a0e2e7e68d2f58cad8749ad8c819d5e2871f4fe13634ee7b5c2d259473d32127ae09ad9bc4ceb391c5a62f4fbe1e0d6f93ff9636146&auth_token=1b99577efa5a3442ca4c7820d6e0b4e8
+#EXTINF:-1 tvg-name="江苏教育" tvg-logo="https://tv-png.cuteshamoye.cn/tv/江苏教育.png" group-title="☘️江苏频道",江苏教育
+https://t.freetv.fun/live/jiang-su-jiao-yu.m3u8
 #EXTINF:-1 tvg-name="泗洪新闻综合" tvg-logo="https://tv-png.cuteshamoye.cn/tv/泗洪新闻综合.png" group-title="☘️江苏频道",泗洪新闻综合
 http://live1.habctv.com/ggpdsl/sd/live.m3u8?zjiangsd#http://live1.habctv.com/ggpdsl/sd/live.m3u8
 #EXTINF:-1 tvg-name="泰州一套新闻综合" tvg-logo="https://tv-png.cuteshamoye.cn/tv/泰州一套新闻综合.png" group-title="☘️江苏频道",泰州一套新闻综合
@@ -4553,6 +4553,8 @@ http://live.catvod.com/smart.php?id=ettvwestern
 https://live.catvod.com/live.php?id=ettvwestern&token=db68a5975c00457036c2ee06023e5d93b4c5269f73044bec1cbfb813b47bf10a%3A1760491003%3ANTIuMTUwLjI5Ljk4
 #EXTINF:-1 tvg-name="东森洋片" tvg-logo="https://tv-png.cuteshamoye.cn/tv/东森洋片.png" group-title="🎬电影频道",东森洋片
 https://tv.iill.top/x/dsyp
+#EXTINF:-1 tvg-name="东森洋片" tvg-logo="https://tv-png.cuteshamoye.cn/tv/东森洋片.png" group-title="🎬电影频道",东森洋片
+https://hls.iill.top/api/dsyp/index.m3u8
 #EXTINF:-1 tvg-name="东森超视" tvg-logo="https://tv-png.cuteshamoye.cn/tv/东森超视.png" group-title="🎬电影频道",东森超视
 https://smart.pendy.dpdns.org/Smart.php?id=ettvsuper
 #EXTINF:-1 tvg-name="东森超视" tvg-logo="https://tv-png.cuteshamoye.cn/tv/东森超视.png" group-title="🎬电影频道",东森超视

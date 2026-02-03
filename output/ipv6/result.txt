@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-02-02 19:09:11,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
+2026-02-03 19:03:55,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
 
 📺央视频道,#genre#
 CCTV-1,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
@@ -810,7 +810,6 @@ CETV-4,http://gslbmgsplive.miguvideo.com/migu/kailu/cetv4/50/20240709/index.m3u8
 浙江经济,http://zwebl02.cztv.com/live/channel031080P.m3u8?auth_key=2524708799-0-0-cc09266f8e043a6df28eb148cb488d37
 浙江经济,https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
 之江纪录,http://zwebl02.cztv.com/live/channel121080P.m3u8?auth_key=2524708799-0-0-c33efdd495bcdd2ddc42e7c408405037
-之江纪录,http://ali-m-l.cztv.com/channels/lantian/channel12/1080p.m3u8
 之江纪录,http://goo.bkpcp.top/mg/zjjl
 之江纪录,https://ali-m-l.cztv.com/channels/lantian/channel12/720p.m3u8
 浙江国际,http://zwebl02.cztv.com/live/channel101080P.m3u8?auth_key=2524708799-0-0-c9473fea1da3eff0f29f4c9cf2b36519
@@ -1261,6 +1260,7 @@ CETV-4,http://gslbmgsplive.miguvideo.com/migu/kailu/cetv4/50/20240709/index.m3u8
 江苏教育,https://mgtv.ottiptv.cc/migu/628008321.m3u8?migutoken=2a14b3aabc488208548ee93104e880b74d4a395bfa44d7066aecd401da116ee25176f823087e3b4982d4720bd660d81bfff58ed9193c1df26c94a3e4f7a6c10952e5d975a5e4f6244fd9dcc62d
 江苏教育,https://t.freetv.fun/live/jiang-su-jiao-yu-1.m3u8
 江苏教育,https://mgtv.ottiptv.cc/mg/628008321.m3u8?userid=5559462299&sign=6ab80a00313378971c7ce88edf123190121af58ce27a7f3ad685f48a0e2e7e68d2f58cad8749ad8c819d5e2871f4fe13634ee7b5c2d259473d32127ae09ad9bc4ceb391c5a62f4fbe1e0d6f93ff9636146&auth_token=1b99577efa5a3442ca4c7820d6e0b4e8
+江苏教育,https://t.freetv.fun/live/jiang-su-jiao-yu.m3u8
 泗洪新闻综合,http://live1.habctv.com/ggpdsl/sd/live.m3u8?zjiangsd#http://live1.habctv.com/ggpdsl/sd/live.m3u8
 泰州一套新闻综合,https://stream1.freetv.fun/tai-zhou-yi-tao-xin-wen-zong-he-4.m3u8
 涟水电视台综合,rtmp://lianshui-tv-hls.cm.jstv.com/lianshui-tv/lsxw
@@ -2344,6 +2344,7 @@ NewTV动作电影,http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/46000008
 东森洋片,http://live.catvod.com/smart.php?id=ettvwestern
 东森洋片,https://live.catvod.com/live.php?id=ettvwestern&token=db68a5975c00457036c2ee06023e5d93b4c5269f73044bec1cbfb813b47bf10a%3A1760491003%3ANTIuMTUwLjI5Ljk4
 东森洋片,https://tv.iill.top/x/dsyp
+东森洋片,https://hls.iill.top/api/dsyp/index.m3u8
 东森超视,https://smart.pendy.dpdns.org/Smart.php?id=ettvsuper
 东森超视,https://stream1.freetv.fun/dong-sen-chao-shi-7.ctv
 东森超视,https://stream1.freetv.fun/dong-sen-chao-shi-8.m3u8
