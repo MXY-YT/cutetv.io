@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-02-08 06:48:39,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
+2026-02-08 18:50:21,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
 
 📺央视频道,#genre#
 CCTV-1,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
@@ -1245,6 +1245,7 @@ CETV-4,http://gslbmgsplive.miguvideo.com/migu/kailu/cetv4/50/20240709/index.m3u8
 江苏城市,http://gslbmgsplive.miguvideo.com/wd_r2/jstv/jschengshi/600/index.m3u8?msisdn=202509030900312c5ad926e30449e5b9405f27a3fde9a6&mdspid=&spid=699067&netType=0&sid=5500260508&pid=2028597139&timestamp=20250903090031&Channel_ID=0116_2600037000-99000-200300220100002&ProgramID=626064714&ParentNodeID=-99&assertID=5500260508&client_ip=106.13.250.83&SecurityKey=20250903090031&promotionId=&mvid=5100186409&mcid=500020&playurlVersion=WX-A1-8.8.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=3712225a575d903704881b6443f50a06&ddCalcu=6307va1a02x52af2354a4567b51d89804307&sv=10004&ct=android
 江苏城市,https://mgtv.ottiptv.cc/migu/626064714.m3u8?migutoken=02cafbc9d94c9e5e26c383c50287313c55f7e68abea08e811428e9b13cd8e46f93919d1a0859b1c76d8e4e78e1f7b8a6f89d71daf38a8275ac7633b59bcdb7cbf189e3152afb4fa80fadf4b134
 江苏城市,https://mgtv.ottiptv.cc/mg/626064714.m3u8?userid=5559462299&sign=f77f332dfb11f8a675b922fd267fcd995b11c856870d6a919dbdf5f2b48b8464107f55ceba337bf5127434b529f32888acbd6c491043625d7c647908815d96720eb4977e149132eb6b7c096be4162b64c0&auth_token=1b99577efa5a3442ca4c7820d6e0b4e8
+江苏城市,https://mgtv.ottiptv.cc/mg/626064714.m3u8?userid=5559462299&sign=e7cc08630e9cc659a63b81caa83b9016ea9998a39e5a8c011f962cc9a9674451ff929293e2f3e9ebae5b7de2c70b44c1a4e4a5672dd0eecdc1128c7ee4e8ebea3e3af753b0acccb4fe6f754d1bdb386e11&auth_token=1b99577efa5a3442ca4c7820d6e0b4e8
 江苏影视,http://z.b.bkpcp.top/m.php?id=jsys
 江苏影视,https://stream1.freetv.fun/a89dd489fa013bc4f36bcc4afe388f1783e2251c276e2566a9359d68a61c6d91.ctv
 江苏影视,https://migu.188766.xyz/?migutoken=91756b74eb13850e4c87b15c25817e42&id=%E6%B1%9F%E8%8B%8F%E5%BD%B1%E8%A7%86%E9%A2%91%E9%81%93&type=yy
@@ -1252,6 +1253,7 @@ CETV-4,http://gslbmgsplive.miguvideo.com/migu/kailu/cetv4/50/20240709/index.m3u8
 江苏影视,http://gslbmgsplive.miguvideo.com/wd_r2/jstv/jsyingshi/600/index.m3u8?msisdn=2025090309003105f41cc73cf04c92833c2265c0140111&mdspid=&spid=699067&netType=0&sid=5500260517&pid=2028597139&timestamp=20250903090031&Channel_ID=0116_2600037000-99000-200300220100002&ProgramID=626064697&ParentNodeID=-99&assertID=5500260517&client_ip=106.13.250.83&SecurityKey=20250903090031&promotionId=&mvid=5100186424&mcid=500020&playurlVersion=WX-A1-8.8.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=6814112e9248d0d7b2bc482bd82b9897&ddCalcu=7698v81a94wb1a2182deb9228448cdb02db7&sv=10004&ct=android
 江苏影视,https://mgtv.ottiptv.cc/migu/626064697.m3u8?migutoken=6508bc5fae9f621ed6ec72d39eb7f60ab52c4b412a5ee7f5b612640ecccbde1f9584f0a97aebc090cb58f73e9e079ced87b059526a6614b5a9ad5a23ff4863d36adcc1ed699583e058fac3330e
 江苏影视,https://mgtv.ottiptv.cc/mg/626064697.m3u8?userid=5559462299&sign=7b54678af26b9d7fecddae6e6a2a417f3fa5b94ed1ca304f2af7f3a3de7e07842ee8e43ea56c8bd6ecf7e233470205d704783bd52d18593ad7a745346f517c2fcad551a03c7dd0829382c25de156cda799&auth_token=1b99577efa5a3442ca4c7820d6e0b4e8
+江苏影视,https://mgtv.ottiptv.cc/mg/626064697.m3u8?userid=5559462299&sign=53eed4ba54773c077f0fc5592a05b3a60f69bda7e58ef321414d3b55e685e65d12b73cad5934e21a39482b8299e613748e0a2ad71d310829fb601a532f1f73d46ebfbfdcdb6f1e272024584ae314404e2b&auth_token=1b99577efa5a3442ca4c7820d6e0b4e8
 江苏教育,http://z.b.bkpcp.top/m.php?id=jsjy
 江苏教育,http://goo.bkpcp.top/mg/jsjy
 江苏教育,https://stream1.freetv.fun/7174b4fd66ddb2a7456b7040105dc27a1e57c166593870bb773cb5f6b4546c54.ctv
@@ -1298,6 +1300,7 @@ CETV-4,http://gslbmgsplive.miguvideo.com/migu/kailu/cetv4/50/20240709/index.m3u8
 连云港新闻综合,https://mgtv.ottiptv.cc/migu/639731715.m3u8?migutoken=70f90182e47785fca234628a083c2a775b48319c0603f2641b5a891ba90b43816e51fb1b07cad8793011132425ebbc0f1568b3bc433d2f04e40344c5fe163be8bf6490e14ab6b96b4419f3f134
 连云港新闻综合,https://mgtv.ottiptv.cc/mg/639731715.m3u8?userid=5559462299&sign=1179bc4a9053ae5416da735466b22b9ed8d3ab67ce7c313762d6d54ed69ddcf344f6c7009f896d795a4d9cd709363a2002a07bdfd54303d6c771730fd1f25ad115c4dabd61d85365f6e7b9f1ba1b956f58&auth_token=1b99577efa5a3442ca4c7820d6e0b4e8
 镇江新闻综合,https://mgtv.ottiptv.cc/mg/639731783.m3u8?userid=5559462299&sign=8fa385272c1c7e968236d30bf4db11f75b6c430a6d16e3dd5fe41e7d4bc862cb7b3bec890ed8b3dbbd2d2dec0b241a13c4bcc13e8c35e66723c151c72eb13bf6aab577f01cb81e2586757d62c816799616&auth_token=1b99577efa5a3442ca4c7820d6e0b4e8
+镇江新闻综合,https://mgtv.ottiptv.cc/mg/639731783.m3u8?userid=5559462299&sign=a9ec4799397d6f8f108a4029aec90b41ea55ab8477a3360f6432abef8a5016be399d40bdfd625052783f7f944e0e0cd102aeaceabcb203e18243c71a3868601e4661153eca5061b4c164ce0c16b49669fa&auth_token=1b99577efa5a3442ca4c7820d6e0b4e8
 靖江新闻综合,http://ls.qingting.fm/live/23797.m3u8
 靖江新闻综合,https://stream1.freetv.fun/jing-jiang-xin-wen-zong-he-1.m3u8
 靖江新闻综合,https://stream1.freetv.fun/jing-jiang-xin-wen-zong-he-7.m3u8
