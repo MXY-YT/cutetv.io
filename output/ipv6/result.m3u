@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/MXY-YT/cutetv.io/refs/heads/main/output/epg/epg.gz"
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://tv-png.cuteshamoye.cn/tv/CCTV1.png" group-title="🕘️更新时间",2026-04-04 06:56:22
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://tv-png.cuteshamoye.cn/tv/CCTV1.png" group-title="🕘️更新时间",2026-04-04 18:55:47
 http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://tv-png.cuteshamoye.cn/tv/CCTV1.png" group-title="📺央视频道",CCTV-1
 http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
@@ -4425,6 +4425,8 @@ http://pullpackage.alivecdn.com/live/jSi62v69ef4x6iYBScl4GTgr9WaWuRtR1v7DfyIDrCz
 https://stream1.freetv.fun/jing-tian-zi-xun-2.ctv
 #EXTINF:-1 tvg-name="靖天资讯" tvg-logo="https://tv-png.cuteshamoye.cn/tv/靖天资讯.png" group-title="🌊港·澳·台",靖天资讯
 http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv065
+#EXTINF:-1 tvg-name="靖天资讯" tvg-logo="https://tv-png.cuteshamoye.cn/tv/靖天资讯.png" group-title="🌊港·澳·台",靖天资讯
+https://t.freetv.fun/live/jing-tian-zi-xun.php
 #EXTINF:-1 tvg-name="CHC家庭影院" tvg-logo="https://tv-png.cuteshamoye.cn/tv/CHC家庭影院.png" group-title="🎬电影频道",CHC家庭影院
 http://z.b.bkpcp.top/m.php?id=chcjtyy
 #EXTINF:-1 tvg-name="CHC家庭影院" tvg-logo="https://tv-png.cuteshamoye.cn/tv/CHC家庭影院.png" group-title="🎬电影频道",CHC家庭影院
@@ -4571,6 +4573,8 @@ https://stream1.freetv.fun/jing-tian-xi-ju-4.ctv
 http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv058
 #EXTINF:-1 tvg-name="靖天戏剧" tvg-logo="https://tv-png.cuteshamoye.cn/tv/靖天戏剧.png" group-title="🎬电影频道",靖天戏剧
 https://cdn12.178.indevs.in/163189/177d541552f78003
+#EXTINF:-1 tvg-name="靖天戏剧" tvg-logo="https://tv-png.cuteshamoye.cn/tv/靖天戏剧.png" group-title="🎬电影频道",靖天戏剧
+https://t.freetv.fun/live/jing-tian-xi-ju-1.php
 #EXTINF:-1 tvg-name="经典电影" tvg-logo="https://tv-png.cuteshamoye.cn/tv/经典电影.png" group-title="🎬电影频道",经典电影
 http://goo.bkpcp.top/mg/jdxgdy
 #EXTINF:-1 tvg-name="经典电影" tvg-logo="https://tv-png.cuteshamoye.cn/tv/经典电影.png" group-title="🎬电影频道",经典电影
