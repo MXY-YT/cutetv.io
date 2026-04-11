@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-04-11 06:58:13,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
+2026-04-11 18:57:20,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
 
 📺央视频道,#genre#
 CCTV-1,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
@@ -2279,6 +2279,7 @@ Now剧集,http://pullpackage.alivecdn.com/live/B9AKX0X3gSWZVv91H6UZDdsYyM8Fie9Hv
 靖天资讯,https://stream1.freetv.fun/jing-tian-zi-xun-2.ctv
 靖天资讯,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv065
 靖天资讯,https://t.freetv.fun/live/jing-tian-zi-xun.php
+靖天资讯,https://t.freetv.fun/live/jing-tian-zi-xun-1.php
 
 🎬电影频道,#genre#
 CHC家庭影院,http://z.b.bkpcp.top/m.php?id=chcjtyy
